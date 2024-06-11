@@ -1,3 +1,10 @@
 # Blind Image Restoration via Fast Diffusion Inversion
 Image Restoration
-"pip install numpy torch blobfile tqdm pyYaml pillow"
+### Gói cần cài đặt
+
+- [numpy](https://pypi.org/project/numpy/)
+- [torch](https://pytorch.org/)
+- [blobfile](https://pypi.org/project/blobfile/)
+- [tqdm](https://pypi.org/project/tqdm/)
+- [pyYaml](https://pypi.org/project/pyYaml/)
+- [pillow](https://pypi.org/project/Pillow/)
