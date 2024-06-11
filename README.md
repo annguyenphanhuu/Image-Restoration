@@ -1,10 +1,19 @@
-# Blind Image Restoration via Fast Diffusion Inversion
-Image Restoration
-### Gói cần cài đặt
+# Blind Image Restoration via Fast Diffusion Inversion (BIRD)
 
-- [numpy](https://pypi.org/project/numpy/)
-- [torch](https://pytorch.org/)
-- [blobfile](https://pypi.org/project/blobfile/)
-- [tqdm](https://pypi.org/project/tqdm/)
-- [pyYaml](https://pypi.org/project/pyYaml/)
-- [pillow](https://pypi.org/project/Pillow/)
+This is the official implementation of "Blind Image Restoration via Fast Diffusion Inversion
+". [arxiv](https://arxiv.org/abs/2405.19572)
+". [github](https://github.com/hamadichihaoui/BIRD?tab=readme-ov-file#readme)
+
+## Environment 
+```
+pip install numpy torch blobfile tqdm pyYaml pillow    
+```
+
+## Pre-Trained Models
+
+For face restoration, download the pretrained [model](https://drive.google.com/file/d/1qMs7tNGV3tkOZNKH5L130dkwsmobEJdh/view?usp=sharing) from and put it into ```checkpoints/```.
+
+
+
+
+
