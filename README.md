@@ -14,9 +14,9 @@ git clone https://github.com/hamadichihaoui/BIRD
 pip install numpy torch blobfile tqdm pyYaml pillow    
 ```
 
-## Pre-Trained Model
+## Pre-Trained Models
 
-For face restoration, download the pretrained [model](https://drive.google.com/file/d/1qMs7tNGV3tkOZNKH5L130dkwsmobEJdh/view?usp=sharing) from and put it into ```checkpoints/```.
+For face restoration, download the pretrained model [model](https://drive.google.com/file/d/1qMs7tNGV3tkOZNKH5L130dkwsmobEJdh/view?usp=sharing) from and put it into ```checkpoints/```.
 
 
 
